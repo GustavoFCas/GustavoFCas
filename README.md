@@ -1,4 +1,4 @@
-<<h1 align="center">Olá 👋, Eu sou Gustavo</h1>
+<h1 align="center">Olá 👋, Eu sou Gustavo</h1>
 
 - 🔭Atualmente estou trabalhando com análise e visualização de dados na **SumaBrasil - SERVICOS URBANOS E MEIO AMBIENTE S.A.**
 
