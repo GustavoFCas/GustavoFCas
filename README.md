@@ -10,7 +10,7 @@
 
 - 📄 Caso queira ver mais sobre minhas experiências [https://www.linkedin.com/in/gustavocastro1515/](https://www.linkedin.com/in/gustavocastro1515/)
 
-- ⚡ Fun fact **Adoro jogos e livros de história e fantasia.**
+- ⚡ Fun fact **Sou apaixonado por jogos e adoro livros de história e fantasia.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
