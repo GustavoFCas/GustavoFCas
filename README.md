@@ -10,8 +10,6 @@
 
 - 📄 Caso queira ver mais sobre minhas experiências [https://www.linkedin.com/in/gustavocastro1515/](https://www.linkedin.com/in/gustavocastro1515/)
 
-- ⚡ Fun fact **Sou apaixonado por jogos e adoro livros de história e fantasia.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/gostovo_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gostovo_" height="30" width="40" /></a>
